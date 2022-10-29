@@ -1,0 +1,2 @@
+## Sobre
+Aplicação desenvolvida para a disciplina de Sistemas Operacionais da Universidade Federal de Sergipe (UFS), com o intuito de demonstrar na prática a utilização da Virtual Private Cloud (VPC) da AWS.
